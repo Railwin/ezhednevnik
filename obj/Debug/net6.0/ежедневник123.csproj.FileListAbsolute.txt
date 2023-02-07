@@ -1,0 +1,15 @@
+C:\Users\railw\source\repos\ежедневник123\bin\Debug\net6.0\ежедневник123.exe
+C:\Users\railw\source\repos\ежедневник123\bin\Debug\net6.0\ежедневник123.deps.json
+C:\Users\railw\source\repos\ежедневник123\bin\Debug\net6.0\ежедневник123.runtimeconfig.json
+C:\Users\railw\source\repos\ежедневник123\bin\Debug\net6.0\ежедневник123.dll
+C:\Users\railw\source\repos\ежедневник123\bin\Debug\net6.0\ежедневник123.pdb
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ежедневник123.csproj.AssemblyReference.cache
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ежедневник123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ежедневник123.AssemblyInfoInputs.cache
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ежедневник123.AssemblyInfo.cs
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ежедневник123.csproj.CoreCompileInputs.cache
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ежедневник123.dll
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\refint\ежедневник123.dll
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ежедневник123.pdb
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ежедневник123.genruntimeconfig.cache
+C:\Users\railw\source\repos\ежедневник123\obj\Debug\net6.0\ref\ежедневник123.dll
